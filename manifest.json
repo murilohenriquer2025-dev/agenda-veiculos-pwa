@@ -1,11 +1,10 @@
 {
-  "name": "Agenda de Veículos",
+  "name": "Agenda Veículos",
   "short_name": "Agenda",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#007bff",
-  "orientation": "portrait",
+  "theme_color": "#00796B",
   "icons": [
     {
       "src": "icon-192.png",
@@ -19,3 +18,5 @@
     }
   ]
 }
+
+
